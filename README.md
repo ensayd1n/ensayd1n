@@ -15,6 +15,12 @@ I build scalable backend systems with a focus on cloud infrastructure and data m
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
+**Frameworks**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+</p>
+
 **Databases**
 
 <p align="left">
