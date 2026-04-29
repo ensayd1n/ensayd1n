@@ -31,19 +31,6 @@ I build scalable backend systems with a focus on cloud infrastructure and data m
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/ensayd1n">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ensayd1n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ensayd1n">
-    <img height="180" src="https://streak-stats.demolab.com?user=ensayd1n&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
 ## Contact
 
 <p align="left">
