@@ -34,12 +34,15 @@ I build scalable backend systems with a focus on cloud infrastructure and data m
 ## GitHub Stats
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ensayd1n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ensayd1n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img height="180" src="https://streak-stats.demolab.com?user=ensayd1n&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/ensayd1n">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ensayd1n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=400" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ensayd1n">
+    <img height="170" src="https://streak-stats.demolab.com?user=ensayd1n&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/ensayd1n">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ensayd1n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
+  </a>
 </p>
 
 ---
